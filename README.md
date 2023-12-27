@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about Distributed Systems**
 
-- 👨‍💻 All of my projects are available at [https://portifolio-grandedev.vercel.app/](https://portifolio-grandedev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portifolio-grandedev.vercel.app/](https://portifolio-grandedev.vercel.app/) or simply browse my github
 
 - 📝 I regularly write articles on [https://gabrielmazieri.blogspot.com/](https://gabrielmazieri.blogspot.com/)
 

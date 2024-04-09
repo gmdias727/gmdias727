@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<a href="https://wakatime.com/badge/user/12122920-56c7-4070-828c-1dd765571fa8/project/018ec34c-2430-4b69-8b7f-0a41441758a0"><img src="https://wakatime.com/badge/user/12122920-56c7-4070-828c-1dd765571fa8/project/018ec34c-2430-4b69-8b7f-0a41441758a0.svg" alt="Wakatime"></a>
+
 <h1 align="center">Hi 👋, I'm Gabriel Mazieri</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 

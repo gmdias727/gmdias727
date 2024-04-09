@@ -14,8 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_17_days
           SHOW_TOTAL: true
           SECTION_NAME: "🕒 Wakatime Stats"
           SHOW_OS: "TRUE"

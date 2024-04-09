@@ -17,3 +17,9 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_17_days
           SHOW_TOTAL: true
+          SECTION_NAME: "🕒 Wakatime Stats"
+          SHOW_OS: "TRUE"
+          SHOW_PROJECTS: "TRUE"
+          SHOW_TOTAL_CODE_TIME: "TRUE"
+          SHOW_PROFILE_VIEWS: "TRUE"
+          SHOW_LANGUAGE: "TRUE"

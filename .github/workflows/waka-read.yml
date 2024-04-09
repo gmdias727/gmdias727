@@ -14,10 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TOTAL: true
-          SECTION_NAME: "🕒 Wakatime Stats"
           SHOW_OS: "TRUE"
           SHOW_PROJECTS: "TRUE"
-          SHOW_TOTAL_CODE_TIME: "TRUE"
           SHOW_PROFILE_VIEWS: "TRUE"
           SHOW_LANGUAGE: "TRUE"

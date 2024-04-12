@@ -1,17 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-🌆 Daytime                190 commits         ████████████░░░░░░░░░░░░░   46.57 % 
-🌃 Evening                130 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,5 +42,5 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gmdias727/gmdias727/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 01:10:39 UTC
+ Last Updated on 12/04/2024 01:58:26 UTC
 <!--END_SECTION:waka-->

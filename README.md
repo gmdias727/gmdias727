@@ -1,3 +1,4 @@
+don't ask me why, but I stopped tracking from 2021 to march/2024 and restarted tracking in April/2024 that's why my graphs are messed up.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2055%20mins-blue)
 

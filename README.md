@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Gabriel 👋
 
-<!--
-**gmdias727/gmdias727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+25 years old, I write code for companies and for myself.
 
-Here are some ideas to get you started:
+### My Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have written a lot of frontend code using the top three most famous tools: React.js, Vue.js, and Angular. However, today I spend most of my time with Go for building services and C for crystallizing computer science foundations in my brain.
+
+### Contact me
+- Discord: gmdias727
+- Gmail: mazierig.tech@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gmdias0/
+- Twitter/X: https://x.com/grande0_ 

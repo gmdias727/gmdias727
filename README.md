@@ -1,4 +1,4 @@
-## Hi there, I'm Gabriel 👋
+## Hi there, I'm Gabriel.
 
 25 years old, I write code for companies and for myself.
 
